@@ -1,5 +1,4 @@
 # bhuynh11.github.io
-# Welcome to My Portfolio
 
 # Bryan Huynh – Portfolio
 
